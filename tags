@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BinaryToDecimal	main.c	/^static  int  BinaryToDecimal(GtkButton * botton, GtkWidget* widgetArray[])  {$/;"	f	file:
+HandleOriginalNegative	task2.c	/^char * HandleOriginalNegative(char *string){$/;"	f
+HandleOriginalNegativeDecimal	task2.c	/^char * HandleOriginalNegativeDecimal(char * string){$/;"	f
+HandleOriginalNegativeInteger	task2.c	/^char * HandleOriginalNegativeInteger(char * string){$/;"	f
+HandleOriginalPlus	task2.c	/^char * HandleOriginalPlus(char *string){$/;"	f
+HandleOriginalPlusDecimal	task2.c	/^char * HandleOriginalPlusDecimal(char * string){$/;"	f
+HandleOriginalPlusInteger	task2.c	/^char * HandleOriginalPlusInteger(char *string){$/;"	f
+OK	task2.h	8;"	d
+RadioChange1	main.c	/^static  int RadioChange1(GtkWidget * radio , double (* function)(char *) ){$/;"	f	file:
+RadioChange2	main.c	/^static  int  RadioChange2(GtkWidget * radio , double (* function)(char *) ){$/;"	f	file:
+RadioChange3	main.c	/^static  int  RadioChange3(GtkWidget * radio , double (* function)(char *) ){$/;"	f	file:
+RadioChange4	main.c	/^static  int  RadioChange4(GtkWidget * radio , double (* function)(char *) ){$/;"	f	file:
+WordLength	task2.h	/^int WordLength ;$/;"	v
+algorithm1	task2.c	/^char * algorithm1(char * string , int wordLength){$/;"	f
+algorithm2	task2.c	/^char * algorithm2(char * string , int wordLength){$/;"	f
+algorithm3	task2.c	/^char * algorithm3(char * string , int wordLength){$/;"	f
+algorithm4	task2.c	/^char * algorithm4(char * string , int wordLength){$/;"	f
+func	main.c	/^char * (* func) (char * , int ) ; $/;"	v
+judgePoint	task2.c	/^status judgePoint(char * string){$/;"	f
+main	main.c	/^int main(int argc,char *argv[])  $/;"	f
+majorFunction	main.c	/^static  int majorFunction(GtkWidget * GtkButton , GtkWidget * widgetArray[]){$/;"	f	file:
+status	task2.h	/^typedef int status ;$/;"	t
