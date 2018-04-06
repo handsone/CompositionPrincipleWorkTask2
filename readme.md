@@ -12,11 +12,9 @@ Docmentation
 <br>
 #####　项目目录：
 <br>
-.
-├── ]
-├── main          //可执行程序
-├── main.c　　// 主函数
-├── makefile    //makefile文件用来快速编译链接执行
-├── tags　　　// tags 文件用来在vim 中快速跳转
-├── task2.c　　//实现头文件函数文件
-└── task2.h　// 头文件，函数变量声明
+ main    	      //可执行程序
+ main.c　	　// 主函数
+ makefile   	 //makefile文件用来快速编译链接执行
+ tags　　	　// tags 文件用来在vim 中快速跳转
+ task2.c　	　//实现头文件函数文件
+ task2.h　 	// 头文件，函数变量声明
